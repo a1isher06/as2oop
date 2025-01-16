@@ -1,13 +1,26 @@
 //ARRAYS
 //1 Task
-//public class main {
-//    public static void main(String[] args) {
-//        int[] intarray = new int [10];
-//
-//        double[] doublearray = new double[10];
-//
-//    }
-//}
+// public class Main {
+//     public static void main(String[] args) {
+//         int[] intarray = new int[10];
+//         double[] doublearray = new double[10];
+
+//         for (int i = 0; i < 10; i++) {
+//             intarray[i] = i + 1;
+//             doublearray[i] = i * 1.5;
+//         }
+
+//         for (int num : intarray) {
+//             System.out.print(num + " ");
+//         }
+//         System.out.println();
+
+//         for (double num : doublearray) {
+//             System.out.print(num + " ");
+//         }
+//     }
+// }
+
 
 
 //2 Task
